@@ -1,0 +1,20 @@
+Version: 5.12
+Branch: releases
+Commit: a8a3d1bc7
+Commit date: 2025-05-27
+Compiler: cc 15.1.0
+Processor: generic x86
+System: Windows
+Bit depth: 64 bits
+Gtkmm: 3.24.10
+Lensfun: 0.3.4.0
+libjxl: Disabled, Auto
+Build type: release
+Build flags:  -std=c++11 -ffp-contract=off -mtune=generic -Werror=unused-label -Werror=delete-incomplete -fno-math-errno -Wno-attributes -Wall -Wuninitialized -Wcast-qual -Wno-deprecated-declarations -Wno-unused-result -Wunused-macros -fopenmp -Werror=unknown-pragmas -O3 -DNDEBUG -ftree-vectorize
+Link flags:  -mtune=generic
+OpenMP support: ON
+MMAP support: ON
+Build OS: MINGW64_NT-10.0-19045 3.6.2-24ff97bf.x86_64 x86_64
+Build date: Tue, 03 Jun 2025 14:35:34 +0000 UTC
+Build epoch: 1748961334
+Build UUID: 1902a540-9720-4d9b-8f78-c6f53965b9fc
