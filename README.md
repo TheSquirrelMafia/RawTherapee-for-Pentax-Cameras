@@ -1,0 +1,9 @@
+First thing's first. If you are dead set on using RawTherapee as your main RAW converter, you will need to do one thing.
+
+Turn off D-Range (highlight & shadow correction) in your Pentax camera & avoid using "AUTO/Green Mode" on the main control mode dial if it doesn't allow you to turn off D-Range in that setting (i.e.: K-3II doesn't allow you to turn off D-Range in "Green Mode", but K-50 allows you to turn off D-Range in "AUTO" mode). I'm talking about the main control mode dial, not the "Green Button" reset.
+
+D-Range allows for more dynamic range in your photos. It basically tries to prevent blown highlights & underexposed shadows. The downside is that D-Range is a proprietary Pentax code that no one outside of Ricoh has access to. The only app that can read D-Range settings correctly is the one made by Ricoh: DCU5 (Digital Camera Utility 5). All other RAW converters will attempt to match the tone curve that's embedded into the OOC (out of camera) jpeg inside the RAW file. This can lead to exposure, contrast, brightness, & color issues with certain RAW files at times.
+
+Sometimes RawTherapee will have exposure issues with certain D-Range embedded RAW files. Some cameras are worse than others. RawTherapee has less issues with D-Range embedded K-50 RAW files than with D-Range embedded K-3II RAW files. RawTherapee might struggle with 25% of RAW files from the K-50, while it might struggle with about 60% of RAW files from the K-3II. This is why I recommend turning off D-Range.
+
+With that being said, turning off D-Range has it's own set of challenges. You'll have to be more careful with exposure out in the field. The camera is no longer trying to prevent blown highlights and/or underexposed shadows for you. You have more control over exposure, but more chances to ruin the shot with too many blown highlights if you're not careful. Blown highlights can be almost impossible to recover at times. Keep this in mind & you'll good to go.
