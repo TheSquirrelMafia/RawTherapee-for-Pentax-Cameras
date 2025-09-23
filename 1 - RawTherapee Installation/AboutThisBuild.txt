@@ -2,7 +2,7 @@ Version: 5.12
 Branch: releases
 Commit: a8a3d1bc7
 Commit date: 2025-05-27
-Compiler: cc 15.1.0
+Compiler: cc 15.2.0
 Processor: generic x86
 System: Windows
 Bit depth: 64 bits
@@ -14,7 +14,7 @@ Build flags:  -std=c++11 -ffp-contract=off -mtune=generic -Werror=unused-label -
 Link flags:  -mtune=generic
 OpenMP support: ON
 MMAP support: ON
-Build OS: MINGW64_NT-10.0-19045 3.6.2-24ff97bf.x86_64 x86_64
-Build date: Tue, 03 Jun 2025 14:35:34 +0000 UTC
-Build epoch: 1748961334
-Build UUID: 1902a540-9720-4d9b-8f78-c6f53965b9fc
+Build OS: MINGW64_NT-10.0-19045 3.6.4-dea57136.x86_64 x86_64
+Build date: Tue, 23 Sep 2025 19:47:55 +0000 UTC
+Build epoch: 1758656875
+Build UUID: 7d6e715e-20b9-4e25-a1f6-9c1627d3d5d4
