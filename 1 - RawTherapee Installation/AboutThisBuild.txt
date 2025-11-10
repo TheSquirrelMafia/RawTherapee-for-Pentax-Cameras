@@ -1,7 +1,7 @@
-Version: 5.12
-Branch: releases
-Commit: a8a3d1bc7
-Commit date: 2025-05-27
+Version: 5.12-150-gff19f8980
+Branch: dev
+Commit: ff19f8980
+Commit date: 2025-11-10
 Compiler: cc 15.2.0
 Processor: generic x86
 System: Windows
@@ -10,11 +10,11 @@ Gtkmm: 3.24.10
 Lensfun: 0.3.4.0
 libjxl: Disabled, Auto
 Build type: release
-Build flags:  -std=c++11 -ffp-contract=off -mtune=generic -Werror=unused-label -Werror=delete-incomplete -fno-math-errno -Wno-attributes -Wall -Wuninitialized -Wcast-qual -Wno-deprecated-declarations -Wno-unused-result -Wunused-macros -fopenmp -Werror=unknown-pragmas -O3 -DNDEBUG -ftree-vectorize
+Build flags:  -ffp-contract=off -mtune=generic -O3 -DNDEBUG -Wall -Wuninitialized -Wcast-qual -Wno-deprecated-declarations -Wno-unused-result -Wunused-macros -Werror=unused-label -fno-math-errno -Wno-attributes -Werror=delete-incomplete -ftree-vectorize
 Link flags:  -mtune=generic
 OpenMP support: ON
 MMAP support: ON
-Build OS: MINGW64_NT-10.0-19045 3.6.4-dea57136.x86_64 x86_64
-Build date: Tue, 23 Sep 2025 19:47:55 +0000 UTC
-Build epoch: 1758656875
-Build UUID: 7d6e715e-20b9-4e25-a1f6-9c1627d3d5d4
+Build OS: MINGW64_NT-10.0-19045 3.6.5-0eeda3e1.x86_64 x86_64
+Build date: Mon, 10 Nov 2025 17:30:56 +0000 UTC
+Build epoch: 1762795856
+Build UUID: 85547021-1910-45c7-89c2-a175fab6e02a
