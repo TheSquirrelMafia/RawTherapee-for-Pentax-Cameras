@@ -1,7 +1,7 @@
-Version: 5.12-166-g7bae1495c
+Version: 5.12-197-gdbfe21427
 Branch: dev
-Commit: 7bae1495c
-Commit date: 2025-12-14
+Commit: dbfe21427
+Commit date: 2026-01-04
 Compiler: cc 15.2.0
 Processor: generic x86
 System: Windows
@@ -15,6 +15,6 @@ Link flags:  -mtune=generic
 OpenMP support: ON
 MMAP support: ON
 Build OS: MINGW64_NT-10.0-19045 3.6.5-0eeda3e1.x86_64 x86_64
-Build date: Tue, 23 Dec 2025 20:07:33 +0000 UTC
-Build epoch: 1766520453
-Build UUID: c6c9e1d7-973b-4e15-8ceb-bdcf516758ae
+Build date: Tue, 06 Jan 2026 18:36:55 +0000 UTC
+Build epoch: 1767724615
+Build UUID: bd4ae4ce-a80c-4da4-a463-4027499f7017
