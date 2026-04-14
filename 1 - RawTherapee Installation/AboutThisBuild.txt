@@ -1,7 +1,7 @@
-Version: 5.12-314-g8cd70be9d
+Version: 5.12-323-g369179b6f
 Branch: dev
-Commit: 8cd70be9d
-Commit date: 2026-03-29
+Commit: 369179b6f
+Commit date: 2026-04-11
 Compiler: cc 15.2.0
 Processor: generic x86
 System: Windows
@@ -14,7 +14,7 @@ Build flags:  -ffp-contract=off -mtune=generic -O3 -DNDEBUG -Wall -Wuninitialize
 Link flags:  -mtune=generic
 OpenMP support: ON
 MMAP support: ON
-Build OS: MINGW64_NT-10.0-19045 x86_64
-Build date: Sun, 29 Mar 2026 19:54:09 +0000 UTC
-Build epoch: 1774814049
-Build UUID: git-8cd70be9dee455befaf83e27c03e92942c327670
+Build OS: MINGW64_NT-10.0-19045 3.6.7-f2802c5f.x86_64 x86_64
+Build date: Tue, 14 Apr 2026 17:46:52 +0000 UTC
+Build epoch: 1776188812
+Build UUID: c4cc25f2-c32b-4f6a-82f5-72e809701ab4
