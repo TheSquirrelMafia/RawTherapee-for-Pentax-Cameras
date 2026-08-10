@@ -1,8 +1,8 @@
-Version: 5.13-rc1
+Version: 5.13
 Branch: releases
-Commit: 024f45657
-Commit date: 2026-06-14
-Compiler: cc 16.1.0
+Commit: 192417910
+Commit date: 2026-07-25
+Compiler: cc 16.2.0
 Processor: generic x86
 System: Windows
 Bit depth: 64 bits
@@ -15,6 +15,6 @@ Link flags:  -mtune=generic
 OpenMP support: ON
 MMAP support: ON
 Build OS: MINGW64_NT-10.0-19045 x86_64
-Build date: Sun, 14 Jun 2026 23:55:31 +0000 UTC
-Build epoch: 1781481331
-Build UUID: git-024f4565752f25731136b222f4fcd8eed79ebdfe
+Build date: Sat, 25 Jul 2026 22:58:00 +0000 UTC
+Build epoch: 1785020280
+Build UUID: git-1924179107995b01b73cdc7f4fe91e44fc8227a7
